@@ -1,4 +1,4 @@
-/*
+ /*
 Program (27) -> Write a program to find the factorial of a given number using a user-defined function.
 Solution (3): Using do - while loop
 */
