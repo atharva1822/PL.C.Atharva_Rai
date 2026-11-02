@@ -22,5 +22,5 @@ int main()
     scanf("%d", &n);
     result = factorial(n);
     printf("Factorial of %d = %d", n, result);
-    return 0;
+    return 0; 
 }
