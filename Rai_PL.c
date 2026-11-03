@@ -6,7 +6,7 @@ Solution (3): Using do - while loop
 #include <stdio.h>
 int factorial(int n)
 {
-    int fact = 1, i = 1;
+    int fact = 1, i = 1; 
     do
     {
         fact = fact * i;
