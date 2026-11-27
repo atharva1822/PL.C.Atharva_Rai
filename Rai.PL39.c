@@ -1,4 +1,4 @@
-/*
+ /*
 Program (39) ->
 
 Write a program to declare a double pointer and display the values stored in the variable, pointer, and double pointer.
